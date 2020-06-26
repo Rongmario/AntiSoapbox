@@ -1,0 +1,8 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+[[mods]]
+modId="antisoapbox"
+version="1.0.0"
+displayName="Anti Soapbox"
+description='Say no to soapboxing.'
+
